@@ -8,3 +8,7 @@ E:\DevOs\Heig-Vd\ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.vbproj
 E:\DevOs\Heig-Vd\ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.exe
 E:\DevOs\Heig-Vd\ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.xml
 E:\DevOs\Heig-Vd\ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.pdb
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie06Exo01\Serie06Exo01\bin\Debug\Serie06Exo01.exe.config
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.exe
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.xml
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie06Exo01\Serie06Exo01\obj\Debug\Serie06Exo01.pdb

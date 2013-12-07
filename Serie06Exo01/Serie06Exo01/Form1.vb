@@ -1,4 +1,10 @@
-﻿Public Class Form1
+﻿'-------------------------------------------------------------------------------
+'Date		    : 07.12.2013                                                    '
+'Auteur		    : DevOs                                                         '
+'Nom			: Serie06Exo01                                                  '
+'Description	: Formulaire de base                                            '
+'--------------------------------------------------------------------------------
+Public Class Form1
 
     Dim c As Collection = New Collection()
 
@@ -47,6 +53,6 @@
 
     End Sub
 
- 
+
 End Class
 

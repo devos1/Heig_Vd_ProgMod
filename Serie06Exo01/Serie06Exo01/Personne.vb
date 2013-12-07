@@ -1,4 +1,10 @@
-﻿Public Class Personne
+﻿'-------------------------------------------------------------------------------
+'Date		    : 07.12.2013                                                    '
+'Auteur		    : DevOs                                                         '
+'Nom			: Serie06Exo01                                                  '
+'Description	: Classe Personne pour contenir les informations de personnes   '
+'--------------------------------------------------------------------------------
+Public Class Personne
 
     'Attributs
     Private p_nom As String
