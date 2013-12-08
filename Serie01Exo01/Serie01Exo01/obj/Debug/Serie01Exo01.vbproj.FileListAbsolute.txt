@@ -1,0 +1,22 @@
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.exe.config
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.exe
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.pdb
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.xml
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.frmExo01.resources
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.Resources.resources
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.exe
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.xml
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.pdb
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.exe.manifest
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.application
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.exe.manifest
+C:\Users\Oscar\Documents\Visual Studio 2012\Projects\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.application
+E:\DevOs\Heig-Vd\ProgMod1\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.exe.config
+E:\DevOs\Heig-Vd\ProgMod1\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.exe
+E:\DevOs\Heig-Vd\ProgMod1\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.xml
+E:\DevOs\Heig-Vd\ProgMod1\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.pdb
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\bin\Debug\Serie01Exo01.exe.config
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.exe
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.xml
+E:\DevOs\Heig-Vd\ProgMod\Heig_Vd_ProgMod\Serie01Exo01\Serie01Exo01\obj\Debug\Serie01Exo01.pdb
