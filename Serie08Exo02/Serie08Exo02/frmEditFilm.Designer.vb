@@ -88,6 +88,7 @@ Partial Class frmEditFilm
         '
         'PictureBox1
         '
+        Me.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.PictureBox1.Location = New System.Drawing.Point(89, 172)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(215, 187)
@@ -131,7 +132,7 @@ Partial Class frmEditFilm
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(314, 375)
+        Me.Button1.Location = New System.Drawing.Point(131, 375)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(128, 23)
         Me.Button1.TabIndex = 26
