@@ -1,5 +1,12 @@
-﻿Public Class Serie08Exo01
+﻿'-------------------------------------------------------------------------------
+'Date		    : 21.02.2014                                                    '
+'Auteur		    : Oscar                                                         '
+'Nom			: Serie08Exo01                                                  '
+'Description	: Main form                                                     '
+'--------------------------------------------------------------------------------
+Public Class Serie08Exo01
 
+    'SUB WHEN FORM LOAD
     Private Sub Serie08Exo01_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         ComboBox1.Sorted = True
         ListBox1.Sorted = True
@@ -10,7 +17,7 @@
         Next
     End Sub
 
-
+    'SUB TO OBTAIN ITEM FROM COMBOBOX
     Private Sub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox1.SelectedIndexChanged
         ListBox1.Items.Clear()
 
@@ -21,11 +28,13 @@
         displayTown(Nothing)
     End Sub
 
+    'SUB TO OBTAIN ITEM FROM LISTBOX
     Private Sub ListBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ListBox1.SelectedIndexChanged
         Dim t As Town = CType(ListBox1.SelectedItem, Town)
         displayTown(t)
     End Sub
 
+    'SUB TO DISPLAY TOWNS
     Private Sub displayTown(ByVal t As Town)
         If (t Is Nothing) Then
             GroupBox1.Text = ""
